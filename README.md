@@ -76,9 +76,11 @@ The dashboard helps identify high-risk departments, job roles, age groups, and s
 
 ---
 
+
 ## Dashboard
   <img width="1165" height="652" alt="Hr Attrition Dashboard Preview" src="https://github.com/user-attachments/assets/058bed68-6dfc-44c3-99d6-eea67ac1ce7c" />
 
   
+
 
 📌 *This project was created for learning and portfolio purposes.*
