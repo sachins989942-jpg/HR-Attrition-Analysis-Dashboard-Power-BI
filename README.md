@@ -1,18 +1,17 @@
 # 📊 HR Attrition Analysis Dashboard – Power BI
 
 ## 🔗 Project Overview
-This project is an **HR Analytics Dashboard built using Power BI** to analyze employee attrition patterns and support data-driven HR decision-making.  
-The dashboard helps identify **high-risk departments, job roles, age groups, and salary bands** contributing to employee turnover.
+This project is an HR Analytics Dashboard built using Power BI to analyze employee attrition patterns and support data-driven HR decision-making.
+The dashboard helps identify high-risk departments, job roles, age groups, and salary bands contributing to employee turnover.
 
 ---
 
 ## 🛠 Tools & Technologies
 - **Power BI**
-- **Excel**
-- **SQL Server**
+- **Microsoft Excel**
 - **Power Query**
 - **DAX**
---**Data Cleaning**
+- **Data Cleaning & Transformation**
 
 ---
 
@@ -64,8 +63,8 @@ The dashboard helps identify **high-risk departments, job roles, age groups, and
 ---
 
 ## 📂 Files Included
-- `https://github.com/sachins989942-jpg/HR-Attrition-Analysis-Dashboard-Power-BI/blob/main/HR%20Analystic%20Dashboard.pbix` – Power BI dashboard file
-- `https://github.com/sachins989942-jpg/HR-Attrition-Analysis-Dashboard-Power-BI/blob/main/HR%20Attrition%20Data.xlsx` – Dataset
+- `HR Analystic Dashboard.pbix` – Power BI dashboard file
+- `HR Attrition Data.xlsx` – Dataset
 - `Dashboard_Screenshot.png` – Dashboard preview
 
 ---
